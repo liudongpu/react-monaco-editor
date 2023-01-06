@@ -1,6 +1,6 @@
 import React from "react";
 import { createRoot } from "react-dom/client";
-import MonacoEditor, { MonacoDiffEditor } from "react-monaco-editor";
+import MonacoEditor from "react-monaco-editor";
 
 class CodeEditor extends React.Component {
   constructor() {
